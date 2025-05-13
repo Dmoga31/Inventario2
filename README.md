@@ -1,4 +1,4 @@
-#[Preguntas](https://github.com/Dmoga31/Inventario2/edit/main/Preguntas.md)
+# [Preguntas](https://github.com/Dmoga31/Inventario2/edit/main/Preguntas.md)
 # Sistema de Inventario con GraphQL y Vue
 
 Este proyecto incluye un **backend en Flask + GraphQL** y un **frontend en Vue** para gestionar un inventario de productos con actualización en tiempo real de stock y disponibilidad.
