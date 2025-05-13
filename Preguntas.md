@@ -1,5 +1,3 @@
-# [Instalación y configuración de proyecto](https://github.com/Dmoga31/Inventario2/blob/main/Instalacion_Config.md)
-
 # Preguntas
 ## ¿Qué ventajas ofrece GraphQL sobre REST en este contexto?
 - **Precisión en las consultas**: El frontend puede solicitar exactamente los campos que necesita (como `stock` y `disponible`), evitando sobre-fetching.
