@@ -1,15 +1,5 @@
 # [Preguntas](https://github.com/Dmoga31/Inventario2/blob/main/Preguntas.md)
-# Sistema de Inventario con GraphQL y Vue
-
-Este proyecto incluye un **backend en Flask + GraphQL** y un **frontend en Vue** para gestionar un inventario de productos con actualización en tiempo real de stock y disponibilidad.
-
-## Instalación y Configuración
-
-### Prerrequisitos
-- Python 3.11+
-- Node.js 16+
-- npm 9+
-
+# Instalación y Configuración
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/tu-usuario/inventario-vue.git
